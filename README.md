@@ -6,7 +6,6 @@ HELLO MICROVERSE
 
 > header of hello microverse and linters.
 
-Additional description about the project and its features.
 
 ## Built With
 

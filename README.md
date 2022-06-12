@@ -2,7 +2,7 @@
 
 # Project Name
 
-HELLO MICROVERSE
+HELLO MICROVERSE!!!
 
 > header of hello microverse and linters.
 
@@ -31,8 +31,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration, xtra
 
 ## 📝 License
 
